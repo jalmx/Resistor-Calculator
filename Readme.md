@@ -11,13 +11,13 @@ _______________________________________________________
 
 ##Vistas
 
-![main](https://raw.githubusercontent.com/jalmx89/Store-Components/master/Imags/main.png)
+![main](https://raw.githubusercontent.com/jalmx89/Resistor-Calculator/master/imgs_view/main.png)
 
-![main2](https://raw.githubusercontent.com/jalmx89/Store-Components/master/Imags/main_view.png)
+![main2](https://raw.githubusercontent.com/jalmx89/Resistor-Calculator/master/imgs_view/main2.png)
 
-![colors](https://raw.githubusercontent.com/jalmx89/Store-Components/master/Imags/list.png)
+![colors](https://raw.githubusercontent.com/jalmx89/Resistor-Calculator/master/imgs_view/colors.png)
 
-![tabla](https://raw.githubusercontent.com/jalmx89/Store-Components/master/Imags/add.png)
+![tabla](https://raw.githubusercontent.com/jalmx89/Resistor-Calculator/master/imgs_view/table.png)
 
 _______________________________________________________
 
